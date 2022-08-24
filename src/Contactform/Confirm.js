@@ -5,7 +5,7 @@ import Button from "@material-ui/core/Button";
 export default class Confirm extends Component {
   continue = e => {
     e.preventDefault();
-    // PROCES FORM //
+    // PROCESS FORM //
     this.props.nextStep();
   };
 
