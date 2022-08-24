@@ -1,13 +1,8 @@
 # Project 3: Task Management Web App
 
----
 
 **Name:  Ryan Stroemel**  
 **Contact: rstroemel@gmail.com**  
-**Organization: Texas A&M University Kingsville**  
-**Program:  Full Stack Web Development Bootcamp**  
-**Project:  Task Management Web App**
-
 ## Abstract:  
 The purpose of this project is to code the frontend of a task management app.
 
@@ -15,14 +10,14 @@ The purpose of this project is to code the frontend of a task management app.
 
 ### User Stories:
 
-**1.** "As a student studying web development, I want a solution with a simple interface that can add, remove and update the completed status of todo list items."  
-*- Daniel*
+**1.** "I study at university. My schedule is "  
+*- Sameer*
 
-**2.** "As a user of both mobile and desktop applications, I want a light weight task management application that is available on both platforms as well as cross compatible on mobile devices."  
-*- Mark*
+**2.** "I use both mobile and web apps. This task management app provides me a schedule I can keep track of!"  
+*- Michael*
 
-**3.** "As a mobile user, I prefer progressive web apps for smaller applications because they don't need to be installed on my phone."  
-*- Laura*
+**3.** "I only use mobile apps and this app keeps track of my workout schedule."  
+*- Linda*
 
 
 ### Wireframes:
