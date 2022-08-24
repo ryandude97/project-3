@@ -10,7 +10,7 @@ The purpose of this project is to code the frontend of a task management app.
 
 ### User Stories:
 
-**1.** "I study at university. My schedule is "  
+**1.** "I study at university. My schedule is hectic and I need to keep track of it. This app changed my life."  
 *- Sameer*
 
 **2.** "I use both mobile and web apps. This task management app provides me a schedule I can keep track of!"  

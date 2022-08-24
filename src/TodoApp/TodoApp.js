@@ -78,15 +78,15 @@ function TodoForm({ addTodo }) {
 export default function TodoApp() {
   const [todos, setTodos] = useState([
     {
-      text: "Practice JavaScript",
+      text: "Do Homework",
       isCompleted: false
     },
     {
-      text: "Update Resume",
+      text: "Cook Dinner",
       isCompleted: false
     },
     {
-      text: "Go Kyaking",
+      text: "Study for Mid-Term",
       isCompleted: false
     }
   ]);
