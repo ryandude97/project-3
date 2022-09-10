@@ -56,7 +56,7 @@ The purpose of this project is to code the frontend of a task management app.
 ---
 ### Results:
 
-#### Project URL: [https://ryandude97.github.io/reactapp/](https://ryandude97.github.io/reactapp/)
+#### Project URL: [https://github.com/ryandude97/project-3](https://github.com/ryandude97/project-3)
 
 ---
 
