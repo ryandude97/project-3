@@ -11,13 +11,13 @@ The purpose of this project is to code the frontend of a task management app.
 ### User Stories:
 
 **1.** "I study at university. My schedule is hectic and I need to keep track of it. This app changed my life."  
-*- Sameer*
+*- Smeagul*
 
 **2.** "I use both mobile and web apps. This task management app provides me a schedule I can keep track of!"  
-*- Michael*
+*- Margaret*
 
 **3.** "I only use mobile apps and this app keeps track of my workout schedule."  
-*- Linda*
+*- Laila*
 
 
 ### Wireframes:
@@ -35,11 +35,11 @@ The purpose of this project is to code the frontend of a task management app.
 
 ### Development Phase:
 
-**1.** Created GitHub repository [https://github.com/mheerspink75/reactapp](https://github.com/mheerspink75/reactapp).
+**1.** Created GitHub repository [https://github.com/ryandude97/project-3](https://github.com/ryandude97/project-3).
 
 **2.** Added [create-react-app](https://github.com/facebook/create-react-app), [material-ui](https://material-ui.com/) and [gh-pages](https://www.npmjs.com/package/gh-pages) to the project via npm.
 
-**3.** Deployed production build to [GiHub Pages](https://pages.github.com/) at url: [https://mheerspink75.github.io/reactapp/](https://mheerspink75.github.io/reactapp/) via [gh-pages](https://www.npmjs.com/package/gh-pages) by following the process in this [video](https://youtu.be/517npPWIb8Q). The production site is hosted on the gh-pages branch of the repository [https://github.com/mheerspink75/reactapp/tree/gh-pages](https://github.com/mheerspink75/reactapp/tree/gh-pages).
+**3.** Deployed production build to [GiHub Pages](https://pages.github.com/) at url: [https://ryandude97.github.io/reactapp/](https://ryandude97.github.io/reactapp/) via [gh-pages](https://www.npmjs.com/package/gh-pages) by following the process in this [video](https://youtu.be/517npPWIb8Q). The production site is hosted on the gh-pages branch of the repository [https://github.com/ryandude97/project-3/tree/gh-pages](https://github.com/ryandude97/project-3/tree/gh-pages).
 
 **4.** Created Todo list code on [Code Sandbox](https://codesandbox.io/s/todolistapp-29m9s) by following tutorials on [YouTube](https://youtu.be/mxK8b99iJTg), [Scotch.io](https://scotch.io/tutorials/build-a-react-to-do-app-with-react-hooks-no-class-components) and [freeCodeCamp](https://www.freecodecamp.org/news/how-to-build-a-todo-list-with-react-hooks-ebaa4e3db3b/) focusing on the [React useState Hook](https://reactjs.org/docs/hooks-state.html). 
 
@@ -56,7 +56,7 @@ The purpose of this project is to code the frontend of a task management app.
 ---
 ### Results:
 
-#### Project URL: [https://mheerspink75.github.io/reactapp/](https://mheerspink75.github.io/reactapp/)
+#### Project URL: [https://ryandude97.github.io/reactapp/](https://ryandude97.github.io/reactapp/)
 
 ---
 
@@ -71,9 +71,9 @@ The purpose of this project is to code the frontend of a task management app.
 
 #### Future Improvements:
 
-**1.** Server-side form validation was not required in this project. In the future I would like to work on further customization to the front-end and server-side validation.
+**1.** I want to loop in a back end server. 
 
-**2.** Local storage was not required in this project. I would also like to integrate local storage.
+**2.** I would like to chnage the css of the page more and play with the framework of the app more. 
 
-**3.** In the future I would like to add more functionality to the project by integrating tables with search, pagination and sorting functionality.
+**3.** I would like to change the delete function.
 
