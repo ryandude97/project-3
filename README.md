@@ -65,8 +65,7 @@ The purpose of this project is to code the frontend of a task management app.
 ![DesktopView1](./src/images/screenshots/desktop&#32;view/TodoListAppDesktopView1.jpg) ![DesktopView2](./src/images/screenshots/desktop&#32;view/TodoListAppDesktopView2.jpg) ![DesktopView3](./src/images/screenshots/desktop&#32;view/TodoListAppDesktopView3.jpg) ![DesktopView4](./src/images/screenshots/desktop&#32;view/TodoListAppDesktopView4.jpg) ![DesktopView5](./src/images/screenshots/desktop&#32;view/TodoListAppDesktopView5.jpg) ![DesktopView6](./src/images/screenshots/desktop&#32;view/TodoListAppDesktopView6.jpg)
 
 #### Mobile View:
-![MobileView1](./src/images/screenshots/mobile&#32;view/TodoListAppMobileView1.jpg) ![MobileView2](./src/images/screenshots/mobile&#32;view/TodoListAppMobileView2.jpg) ![MobileView3](./src/images/screenshots/mobile&#32;view/TodoListAppMobileView3.jpg) ![MobileView4](./src/images/screenshots/mobile&#32;view/TodoListAppMobileView4.jpg)
-
+![MobileView1](./src/images/screenshots/mobile&#32;view/TodoListAppMobileView1.jpg) ![MobileView2](./src/images/screenshots/mobile&#32;view/TodoListAppMobileView2.jpg) 
 ---
 
 #### Future Improvements:
